@@ -1,0 +1,165 @@
+{
+    "teams": [
+        {
+            "country": "Netherlands",
+            "flag": "🇳🇱",
+            "group": "A"
+        },
+        {
+            "country": "Ecuador",
+            "flag": "🇪🇨",
+            "group": "A"
+        },
+        {
+            "country": "Senegal",
+            "flag": "🇸🇳",
+            "group": "A"
+        },
+        {
+            "country": "Qatar",
+            "flag": "🇶🇦",
+            "group": "A"
+        },
+        {
+            "country": "England",
+            "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+            "group": "B"
+        },
+        {
+            "country": "Iran",
+            "flag": "🇮🇷",
+            "group": "B"
+        },
+        {
+            "country": "USA",
+            "flag": "🇺🇸",
+            "group": "B"
+        },
+        {
+            "country": "Wales",
+            "flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+            "group": "B"
+        },
+        {
+            "country": "Poland",
+            "flag": "🇵🇱",
+            "group": "C"
+        },
+        {
+            "country": "Argentina",
+            "flag": "🇦🇷",
+            "group": "C"
+        },
+        {
+            "country": "Saudi Arabia",
+            "flag": "🇸🇦",
+            "group": "C"
+        },
+        {
+            "country": "Mexico",
+            "flag": "🇲🇽",
+            "group": "C"
+        },
+        {
+            "country": "France",
+            "flag": "🇫🇷",
+            "group": "D"
+        },
+        {
+            "country": "Austrailia",
+            "flag": "🇦🇺",
+            "group": "D"
+        },
+        {
+            "country": "Denmark",
+            "flag": "🇩🇰",
+            "group": "D"
+        },
+        {
+            "country": "Tunisia",
+            "flag": "🇹🇳",
+            "group": "D"
+        },
+        {
+            "country": "Spain",
+            "flag": "🇪🇸",
+            "group": "E"
+        },
+        {
+            "country": "Japan",
+            "flag": "🇯🇵",
+            "group": "E"
+        },
+        {
+            "country": "Costa Rica",
+            "flag": "🇨🇷",
+            "group": "E"
+        },
+        {
+            "country": "Germany",
+            "flag": "🇩🇪",
+            "group": "E"
+        },
+        {
+            "country": "Croatia",
+            "flag": "🇭🇷",
+            "group": "F"
+        },
+        {
+            "country": "Morocco",
+            "flag": "🇲🇦",
+            "group": "F"
+        },
+        {
+            "country": "Belgium",
+            "flag": "🇧🇪",
+            "group": "F"
+        },
+        {
+            "country": "Canada",
+            "flag": "🇨🇦",
+            "group": "F"
+        },
+        {
+            "country": "Brazil",
+            "flag": "🇧🇷",
+            "group": "G"
+        },
+        {
+            "country": "Switzerland",
+            "flag": "🇨🇭",
+            "group": "G"
+        },
+        {
+            "country": "Cameroon",
+            "flag": "🇨🇲",
+            "group": "G"
+        },
+        {
+            "country": "Serbia",
+            "flag": "🇷🇸",
+            "group": "G"
+        },
+        {
+            "country": "Portugal",
+            "flag": "🇵🇹",
+            "group": "H"
+        },
+        {
+            "country": "Ghana",
+            "flag": "🇬🇭",
+            "group": "H"
+        },
+        {
+            "country": "South Korea",
+            "flag": "🇰🇷",
+            "group": "H"
+        },
+        {
+            "country": "Uruguay",
+            "flag": "🇺🇾",
+            "group": "H"
+        }
+    ]
+}
+
