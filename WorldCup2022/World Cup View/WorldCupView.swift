@@ -15,6 +15,17 @@ struct WorldCupView: View {
             List {
                 GroupList()
                     .environmentObject(viewModel)
+                Section {
+                    Button(action: {
+                        viewModel.filterRoundOfSixteen()
+                    }) {
+                        Text("Round of Sixteen")
+                            .frame(minHeight: 44)
+                            .frame(maxWidth: .infinity)
+                            .foregroundColor(.fifaPurple)
+                            .bold()
+                    }
+                }
                 WorldCupList()
                     .environmentObject(viewModel)
             }

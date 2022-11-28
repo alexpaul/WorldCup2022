@@ -12,9 +12,10 @@ final class FootballTeamViewModel: ObservableObject {
 
     static var mockData: [FootballTeam] {
         [
-            .init(country: "Brazil", flag: "🇧🇷", group: "G"),
-            .init(country: "Spain", flag: "🇪🇸", group: "E"),
-            .init(country: "France", flag: "🇫🇷", group: "D")
+            .init(country: "Brazil", flag: "🇧🇷", group: "G", roundOfSixteen: true),
+            .init(country: "Spain", flag: "🇪🇸", group: "E", roundOfSixteen: true),
+            .init(country: "Canada", flag: "🇨🇦", group: "F", roundOfSixteen: false),
+            .init(country: "France", flag: "🇫🇷", group: "D", roundOfSixteen: true)
         ]
     }
 
@@ -38,5 +39,10 @@ final class FootballTeamViewModel: ObservableObject {
     func filter(by group: String) {
         fetchTeams()
         teams = teams.filter { $0.group == group }
+    }
+
+    func filterRoundOfSixteen() {
+        fetchTeams()
+        teams = teams.filter { $0.roundOfSixteen }
     }
 }

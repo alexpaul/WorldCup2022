@@ -3,162 +3,194 @@
         {
             "country": "Netherlands",
             "flag": "🇳🇱",
-            "group": "A"
+            "group": "A",
+            "roundOfSixteen": false
         },
         {
             "country": "Ecuador",
             "flag": "🇪🇨",
-            "group": "A"
+            "group": "A",
+            "roundOfSixteen": false
         },
         {
             "country": "Senegal",
             "flag": "🇸🇳",
-            "group": "A"
+            "group": "A",
+            "roundOfSixteen": false
         },
         {
             "country": "Qatar",
             "flag": "🇶🇦",
-            "group": "A"
+            "group": "A",
+            "roundOfSixteen": false
         },
         {
             "country": "England",
             "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-            "group": "B"
+            "group": "B",
+            "roundOfSixteen": false
         },
         {
             "country": "Iran",
             "flag": "🇮🇷",
-            "group": "B"
+            "group": "B",
+            "roundOfSixteen": false
         },
         {
             "country": "USA",
             "flag": "🇺🇸",
-            "group": "B"
+            "group": "B",
+            "roundOfSixteen": false
         },
         {
             "country": "Wales",
             "flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
-            "group": "B"
+            "group": "B",
+            "roundOfSixteen": false
         },
         {
             "country": "Poland",
             "flag": "🇵🇱",
-            "group": "C"
+            "group": "C",
+            "roundOfSixteen": false
         },
         {
             "country": "Argentina",
             "flag": "🇦🇷",
-            "group": "C"
+            "group": "C",
+            "roundOfSixteen": false
         },
         {
             "country": "Saudi Arabia",
             "flag": "🇸🇦",
-            "group": "C"
+            "group": "C",
+            "roundOfSixteen": false
         },
         {
             "country": "Mexico",
             "flag": "🇲🇽",
-            "group": "C"
+            "group": "C",
+            "roundOfSixteen": false
         },
         {
             "country": "France",
             "flag": "🇫🇷",
-            "group": "D"
+            "group": "D",
+            "roundOfSixteen": true
         },
         {
             "country": "Austrailia",
             "flag": "🇦🇺",
-            "group": "D"
+            "group": "D",
+            "roundOfSixteen": false
         },
         {
             "country": "Denmark",
             "flag": "🇩🇰",
-            "group": "D"
+            "group": "D",
+            "roundOfSixteen": false
         },
         {
             "country": "Tunisia",
             "flag": "🇹🇳",
-            "group": "D"
+            "group": "D",
+            "roundOfSixteen": false
         },
         {
             "country": "Spain",
             "flag": "🇪🇸",
-            "group": "E"
+            "group": "E",
+            "roundOfSixteen": false
         },
         {
             "country": "Japan",
             "flag": "🇯🇵",
-            "group": "E"
+            "group": "E",
+            "roundOfSixteen": false
         },
         {
             "country": "Costa Rica",
             "flag": "🇨🇷",
-            "group": "E"
+            "group": "E",
+            "roundOfSixteen": false
         },
         {
             "country": "Germany",
             "flag": "🇩🇪",
-            "group": "E"
+            "group": "E",
+            "roundOfSixteen": false
         },
         {
             "country": "Croatia",
             "flag": "🇭🇷",
-            "group": "F"
+            "group": "F",
+            "roundOfSixteen": false
         },
         {
             "country": "Morocco",
             "flag": "🇲🇦",
-            "group": "F"
+            "group": "F",
+            "roundOfSixteen": false
         },
         {
             "country": "Belgium",
             "flag": "🇧🇪",
-            "group": "F"
+            "group": "F",
+            "roundOfSixteen": false
         },
         {
             "country": "Canada",
             "flag": "🇨🇦",
-            "group": "F"
+            "group": "F",
+            "roundOfSixteen": false
         },
         {
             "country": "Brazil",
             "flag": "🇧🇷",
-            "group": "G"
+            "group": "G",
+            "roundOfSixteen": true
         },
         {
             "country": "Switzerland",
             "flag": "🇨🇭",
-            "group": "G"
+            "group": "G",
+            "roundOfSixteen": false
         },
         {
             "country": "Cameroon",
             "flag": "🇨🇲",
-            "group": "G"
+            "group": "G",
+            "roundOfSixteen": false
         },
         {
             "country": "Serbia",
             "flag": "🇷🇸",
-            "group": "G"
+            "group": "G",
+            "roundOfSixteen": false
         },
         {
             "country": "Portugal",
             "flag": "🇵🇹",
-            "group": "H"
+            "group": "H",
+            "roundOfSixteen": true
         },
         {
             "country": "Ghana",
             "flag": "🇬🇭",
-            "group": "H"
+            "group": "H",
+            "roundOfSixteen": false
         },
         {
             "country": "South Korea",
             "flag": "🇰🇷",
-            "group": "H"
+            "group": "H",
+            "roundOfSixteen": false
         },
         {
             "country": "Uruguay",
             "flag": "🇺🇾",
-            "group": "H"
+            "group": "H",
+            "roundOfSixteen": false
         }
     ]
 }
