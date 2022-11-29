@@ -25,6 +25,7 @@ final class FootballTeamViewModel: ObservableObject {
 
     func fetchTeams() {
         let results: WorldCup = Bundle.parse("worldCupTeams", fileExtension: "json")
+        // https://www.donnywals.com/xcode-14-publishing-changes-from-within-view-updates-is-not-allowed-this-will-cause-undefined-behavior/
         teams = results.teams.sorted { $0.country < $1.country }
     }
 
@@ -43,6 +44,7 @@ final class FootballTeamViewModel: ObservableObject {
 
     func filterRoundOfSixteen() {
         fetchTeams()
+        // https://www.donnywals.com/xcode-14-publishing-changes-from-within-view-updates-is-not-allowed-this-will-cause-undefined-behavior/
         teams = teams.filter { $0.roundOfSixteen }
     }
 }

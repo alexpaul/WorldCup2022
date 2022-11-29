@@ -9,6 +9,7 @@ import SwiftUI
 
 struct WorldCupView: View {
     @EnvironmentObject var viewModel: FootballTeamViewModel
+    @Environment(\.colorScheme) private var colorScheme
 
     var body: some View {
         NavigationStack {
@@ -22,13 +23,14 @@ struct WorldCupView: View {
                         Text("Round of Sixteen")
                             .frame(minHeight: 44)
                             .frame(maxWidth: .infinity)
-                            .foregroundColor(.fifaPurple)
+                            .foregroundColor(colorScheme == .dark ? .white : .fifaPurple)
                             .bold()
                     }
                 }
                 WorldCupList()
                     .environmentObject(viewModel)
             }
+            .scrollIndicators(.hidden)
             .listStyle(.insetGrouped)
             .navigationTitle("World Cup 2022")
             .toolbar {
