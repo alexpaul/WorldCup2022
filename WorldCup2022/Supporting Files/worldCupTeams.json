@@ -16,7 +16,7 @@
             "country": "Senegal",
             "flag": "🇸🇳",
             "group": "A",
-            "roundOfSixteen": false
+            "roundOfSixteen": true
         },
         {
             "country": "Qatar",
@@ -28,7 +28,7 @@
             "country": "England",
             "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
             "group": "B",
-            "roundOfSixteen": false
+            "roundOfSixteen": true
         },
         {
             "country": "Iran",
@@ -40,7 +40,7 @@
             "country": "USA",
             "flag": "🇺🇸",
             "group": "B",
-            "roundOfSixteen": false
+            "roundOfSixteen": true
         },
         {
             "country": "Wales",
@@ -76,7 +76,7 @@
             "country": "France",
             "flag": "🇫🇷",
             "group": "D",
-            "roundOfSixteen": true
+            "roundOfSixteen": false
         },
         {
             "country": "Austrailia",
@@ -148,7 +148,7 @@
             "country": "Brazil",
             "flag": "🇧🇷",
             "group": "G",
-            "roundOfSixteen": true
+            "roundOfSixteen": false
         },
         {
             "country": "Switzerland",
@@ -172,7 +172,7 @@
             "country": "Portugal",
             "flag": "🇵🇹",
             "group": "H",
-            "roundOfSixteen": true
+            "roundOfSixteen": false
         },
         {
             "country": "Ghana",
