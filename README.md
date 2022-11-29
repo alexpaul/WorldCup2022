@@ -1,4 +1,4 @@
-# WorldCup2022
+# World Cup 2022
 
 SwiftUI app demoing the teams in World Cup 2022.
 
