@@ -1,5 +1,5 @@
-# WorldCup2022
+# World Cup 2022
 
 SwiftUI app demoing the teams in World Cup 2022.
 
-![worldcup](https://user-images.githubusercontent.com/1819208/204402161-07fe6009-c294-48c7-ab46-6c11db8c6d81.gif)
+![worldcup-2022](https://user-images.githubusercontent.com/1819208/204670917-1c017d81-03e7-4c8c-a32e-1718b70ef928.gif)
