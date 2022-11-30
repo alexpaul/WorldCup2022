@@ -76,13 +76,13 @@
             "country": "France",
             "flag": "🇫🇷",
             "group": "D",
-            "roundOfSixteen": false
+            "roundOfSixteen": true
         },
         {
             "country": "Austrailia",
             "flag": "🇦🇺",
             "group": "D",
-            "roundOfSixteen": false
+            "roundOfSixteen": true
         },
         {
             "country": "Denmark",
