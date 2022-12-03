@@ -9,23 +9,17 @@ import SwiftUI
 
 struct WorldCupView: View {
     @EnvironmentObject var viewModel: FootballTeamViewModel
-    @Environment(\.colorScheme) private var colorScheme
 
     var body: some View {
         NavigationStack {
             List {
                 GroupList()
                     .environmentObject(viewModel)
-                Section {
-                    Button(action: {
-                        viewModel.filterRoundOfSixteen()
-                    }) {
-                        Text("Round of Sixteen")
-                            .frame(minHeight: 44)
-                            .frame(maxWidth: .infinity)
-                            .foregroundColor(colorScheme == .dark ? .white : .fifaPurple)
-                            .bold()
-                    }
+                StageView(viewModel: viewModel, stageTitle: "Round of Sixteen") {
+                    viewModel.filterRoundOfSixteen()
+                }
+                StageView(viewModel: viewModel, stageTitle: "Quarter Finals") {
+                    viewModel.filterQuarterRounds()
                 }
                 WorldCupList()
                     .environmentObject(viewModel)

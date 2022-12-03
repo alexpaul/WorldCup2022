@@ -18,6 +18,7 @@
 		57998C832935649D00059DCD /* Bundle+JSONParsing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57998C822935649D00059DCD /* Bundle+JSONParsing.swift */; };
 		57998C852935682E00059DCD /* GroupList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57998C842935682E00059DCD /* GroupList.swift */; };
 		57998C87293568D700059DCD /* WorldCupList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57998C86293568D700059DCD /* WorldCupList.swift */; };
+		57FADCF5293BBCF800143EF5 /* StageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57FADCF4293BBCF800143EF5 /* StageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		57998C822935649D00059DCD /* Bundle+JSONParsing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle+JSONParsing.swift"; sourceTree = "<group>"; };
 		57998C842935682E00059DCD /* GroupList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupList.swift; sourceTree = "<group>"; };
 		57998C86293568D700059DCD /* WorldCupList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldCupList.swift; sourceTree = "<group>"; };
+		57FADCF4293BBCF800143EF5 /* StageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 			children = (
 				57998C802935647B00059DCD /* WorldCupView.swift */,
 				57998C86293568D700059DCD /* WorldCupList.swift */,
+				57FADCF4293BBCF800143EF5 /* StageView.swift */,
 				57998C842935682E00059DCD /* GroupList.swift */,
 			);
 			path = "World Cup View";
@@ -203,6 +206,7 @@
 				57998C87293568D700059DCD /* WorldCupList.swift in Sources */,
 				57998C6D293563CB00059DCD /* ContentView.swift in Sources */,
 				57998C6B293563CB00059DCD /* WorldCup2022App.swift in Sources */,
+				57FADCF5293BBCF800143EF5 /* StageView.swift in Sources */,
 				57998C792935640B00059DCD /* FootballTeamViewModel.swift in Sources */,
 				57998C832935649D00059DCD /* Bundle+JSONParsing.swift in Sources */,
 				57998C7F2935646300059DCD /* FootballTeam.swift in Sources */,

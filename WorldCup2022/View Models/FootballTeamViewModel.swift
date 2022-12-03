@@ -12,10 +12,26 @@ final class FootballTeamViewModel: ObservableObject {
 
     static var mockData: [FootballTeam] {
         [
-            .init(country: "Brazil", flag: "🇧🇷", group: "G", roundOfSixteen: true),
-            .init(country: "Spain", flag: "🇪🇸", group: "E", roundOfSixteen: true),
-            .init(country: "Canada", flag: "🇨🇦", group: "F", roundOfSixteen: false),
-            .init(country: "France", flag: "🇫🇷", group: "D", roundOfSixteen: true)
+            .init(country: "Brazil",
+                  flag: "🇧🇷",
+                  group: "G",
+                  roundOfSixteen: true,
+                  quarterFinal: false),
+            .init(country: "Spain",
+                  flag: "🇪🇸",
+                  group: "E",
+                  roundOfSixteen: true,
+                  quarterFinal: false),
+            .init(country: "Canada",
+                  flag: "🇨🇦",
+                  group: "F",
+                  roundOfSixteen: false,
+                  quarterFinal: false),
+            .init(country: "France",
+                  flag: "🇫🇷",
+                  group: "D",
+                  roundOfSixteen: true,
+                  quarterFinal: false)
         ]
     }
 
@@ -46,5 +62,10 @@ final class FootballTeamViewModel: ObservableObject {
         fetchTeams()
         // https://www.donnywals.com/xcode-14-publishing-changes-from-within-view-updates-is-not-allowed-this-will-cause-undefined-behavior/
         teams = teams.filter { $0.roundOfSixteen }
+    }
+
+    func filterQuarterRounds() {
+        fetchTeams()
+        teams = teams.filter { $0.quarterFinal }
     }
 }
