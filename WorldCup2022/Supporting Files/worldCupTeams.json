@@ -52,13 +52,13 @@
             "country": "Poland",
             "flag": "🇵🇱",
             "group": "C",
-            "roundOfSixteen": false
+            "roundOfSixteen": true
         },
         {
             "country": "Argentina",
             "flag": "🇦🇷",
             "group": "C",
-            "roundOfSixteen": false
+            "roundOfSixteen": true
         },
         {
             "country": "Saudi Arabia",
@@ -100,13 +100,13 @@
             "country": "Spain",
             "flag": "🇪🇸",
             "group": "E",
-            "roundOfSixteen": false
+            "roundOfSixteen": true
         },
         {
             "country": "Japan",
             "flag": "🇯🇵",
             "group": "E",
-            "roundOfSixteen": false
+            "roundOfSixteen": true
         },
         {
             "country": "Costa Rica",
@@ -124,13 +124,13 @@
             "country": "Croatia",
             "flag": "🇭🇷",
             "group": "F",
-            "roundOfSixteen": false
+            "roundOfSixteen": true
         },
         {
             "country": "Morocco",
             "flag": "🇲🇦",
             "group": "F",
-            "roundOfSixteen": false
+            "roundOfSixteen": true
         },
         {
             "country": "Belgium",
@@ -148,13 +148,13 @@
             "country": "Brazil",
             "flag": "🇧🇷",
             "group": "G",
-            "roundOfSixteen": false
+            "roundOfSixteen": true
         },
         {
             "country": "Switzerland",
             "flag": "🇨🇭",
             "group": "G",
-            "roundOfSixteen": false
+            "roundOfSixteen": true
         },
         {
             "country": "Cameroon",
@@ -172,7 +172,7 @@
             "country": "Portugal",
             "flag": "🇵🇹",
             "group": "H",
-            "roundOfSixteen": false
+            "roundOfSixteen": true
         },
         {
             "country": "Ghana",
@@ -184,7 +184,7 @@
             "country": "South Korea",
             "flag": "🇰🇷",
             "group": "H",
-            "roundOfSixteen": false
+            "roundOfSixteen": true
         },
         {
             "country": "Uruguay",
