@@ -5,224 +5,256 @@
             "flag": "🇳🇱",
             "group": "A",
             "roundOfSixteen": true,
-            "quarterFinal": true
+            "quarterFinal": true,
+            "semiFinal": false
         },
         {
             "country": "Ecuador",
             "flag": "🇪🇨",
             "group": "A",
             "roundOfSixteen": false,
-            "quarterFinal": false
+            "quarterFinal": false,
+            "semiFinal": false
         },
         {
             "country": "Senegal",
             "flag": "🇸🇳",
             "group": "A",
             "roundOfSixteen": true,
-            "quarterFinal": false
+            "quarterFinal": false,
+            "semiFinal": false
         },
         {
             "country": "Qatar",
             "flag": "🇶🇦",
             "group": "A",
             "roundOfSixteen": false,
-            "quarterFinal": false
+            "quarterFinal": false,
+            "semiFinal": false
         },
         {
             "country": "England",
             "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
             "group": "B",
             "roundOfSixteen": true,
-            "quarterFinal": false
+            "quarterFinal": true,
+            "semiFinal": false
         },
         {
             "country": "Iran",
             "flag": "🇮🇷",
             "group": "B",
             "roundOfSixteen": false,
-            "quarterFinal": false
+            "quarterFinal": false,
+            "semiFinal": false
         },
         {
             "country": "USA",
             "flag": "🇺🇸",
             "group": "B",
             "roundOfSixteen": true,
-            "quarterFinal": false
+            "quarterFinal": false,
+            "semiFinal": false
         },
         {
             "country": "Wales",
             "flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
             "group": "B",
             "roundOfSixteen": false,
-            "quarterFinal": false
+            "quarterFinal": false,
+            "semiFinal": false
         },
         {
             "country": "Poland",
             "flag": "🇵🇱",
             "group": "C",
             "roundOfSixteen": true,
-            "quarterFinal": false
+            "quarterFinal": false,
+            "semiFinal": false
         },
         {
             "country": "Argentina",
             "flag": "🇦🇷",
             "group": "C",
             "roundOfSixteen": true,
-            "quarterFinal": true
+            "quarterFinal": true,
+            "semiFinal": true
         },
         {
             "country": "Saudi Arabia",
             "flag": "🇸🇦",
             "group": "C",
             "roundOfSixteen": false,
-            "quarterFinal": false
+            "quarterFinal": false,
+            "semiFinal": false
         },
         {
             "country": "Mexico",
             "flag": "🇲🇽",
             "group": "C",
             "roundOfSixteen": false,
-            "quarterFinal": false
+            "quarterFinal": false,
+            "semiFinal": false
         },
         {
             "country": "France",
             "flag": "🇫🇷",
             "group": "D",
             "roundOfSixteen": true,
-            "quarterFinal": false
+            "quarterFinal": true,
+            "semiFinal": true
         },
         {
             "country": "Austrailia",
             "flag": "🇦🇺",
             "group": "D",
             "roundOfSixteen": true,
-            "quarterFinal": false
+            "quarterFinal": false,
+            "semiFinal": false
         },
         {
             "country": "Denmark",
             "flag": "🇩🇰",
             "group": "D",
             "roundOfSixteen": false,
-            "quarterFinal": false
+            "quarterFinal": false,
+            "semiFinal": false
         },
         {
             "country": "Tunisia",
             "flag": "🇹🇳",
             "group": "D",
             "roundOfSixteen": false,
-            "quarterFinal": false
+            "quarterFinal": false,
+            "semiFinal": false
         },
         {
             "country": "Spain",
             "flag": "🇪🇸",
             "group": "E",
             "roundOfSixteen": true,
-            "quarterFinal": false
+            "quarterFinal": false,
+            "semiFinal": false
         },
         {
             "country": "Japan",
             "flag": "🇯🇵",
             "group": "E",
             "roundOfSixteen": true,
-            "quarterFinal": false
+            "quarterFinal": false,
+            "semiFinal": false
         },
         {
             "country": "Costa Rica",
             "flag": "🇨🇷",
             "group": "E",
             "roundOfSixteen": false,
-            "quarterFinal": false
+            "quarterFinal": false,
+            "semiFinal": false
         },
         {
             "country": "Germany",
             "flag": "🇩🇪",
             "group": "E",
             "roundOfSixteen": false,
-            "quarterFinal": false
+            "quarterFinal": false,
+            "semiFinal": false
         },
         {
             "country": "Croatia",
             "flag": "🇭🇷",
             "group": "F",
             "roundOfSixteen": true,
-            "quarterFinal": false
+            "quarterFinal": true,
+            "semiFinal": true
         },
         {
             "country": "Morocco",
             "flag": "🇲🇦",
             "group": "F",
             "roundOfSixteen": true,
-            "quarterFinal": false
+            "quarterFinal": true,
+            "semiFinal": true
         },
         {
             "country": "Belgium",
             "flag": "🇧🇪",
             "group": "F",
             "roundOfSixteen": false,
-            "quarterFinal": false
+            "quarterFinal": false,
+            "semiFinal": false
         },
         {
             "country": "Canada",
             "flag": "🇨🇦",
             "group": "F",
             "roundOfSixteen": false,
-            "quarterFinal": false
+            "quarterFinal": false,
+            "semiFinal": false
         },
         {
             "country": "Brazil",
             "flag": "🇧🇷",
             "group": "G",
             "roundOfSixteen": true,
-            "quarterFinal": false
+            "quarterFinal": true,
+            "semiFinal": false
         },
         {
             "country": "Switzerland",
             "flag": "🇨🇭",
             "group": "G",
             "roundOfSixteen": true,
-            "quarterFinal": false
+            "quarterFinal": false,
+            "semiFinal": false
         },
         {
             "country": "Cameroon",
             "flag": "🇨🇲",
             "group": "G",
             "roundOfSixteen": false,
-            "quarterFinal": false
+            "quarterFinal": false,
+            "semiFinal": false
         },
         {
             "country": "Serbia",
             "flag": "🇷🇸",
             "group": "G",
             "roundOfSixteen": false,
-            "quarterFinal": false
+            "quarterFinal": false,
+            "semiFinal": false
         },
         {
             "country": "Portugal",
             "flag": "🇵🇹",
             "group": "H",
             "roundOfSixteen": true,
-            "quarterFinal": false
+            "quarterFinal": true,
+            "semiFinal": false
         },
         {
             "country": "Ghana",
             "flag": "🇬🇭",
             "group": "H",
             "roundOfSixteen": false,
-            "quarterFinal": false
+            "quarterFinal": false,
+            "semiFinal": false
         },
         {
             "country": "South Korea",
             "flag": "🇰🇷",
             "group": "H",
             "roundOfSixteen": true,
-            "quarterFinal": false
+            "quarterFinal": false,
+            "semiFinal": false
         },
         {
             "country": "Uruguay",
             "flag": "🇺🇾",
             "group": "H",
             "roundOfSixteen": false,
-            "quarterFinal": false
+            "quarterFinal": false,
+            "semiFinal": false
         }
     ]
 }

@@ -17,4 +17,5 @@ struct FootballTeam: Decodable, Hashable {
     let group: String
     let roundOfSixteen: Bool
     let quarterFinal: Bool
+    let semiFinal: Bool
 }

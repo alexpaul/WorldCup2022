@@ -21,6 +21,9 @@ struct WorldCupView: View {
                 StageView(viewModel: viewModel, stageTitle: "Quarter Finals") {
                     viewModel.filterQuarterRounds()
                 }
+                StageView(viewModel: viewModel, stageTitle: "Semi Finals") {
+                    viewModel.filterSemiFinalsRounds()
+                }
                 WorldCupList()
                     .environmentObject(viewModel)
             }

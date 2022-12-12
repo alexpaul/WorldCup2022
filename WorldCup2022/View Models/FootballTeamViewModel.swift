@@ -16,22 +16,26 @@ final class FootballTeamViewModel: ObservableObject {
                   flag: "🇧🇷",
                   group: "G",
                   roundOfSixteen: true,
-                  quarterFinal: false),
+                  quarterFinal: false,
+                  semiFinal: false),
             .init(country: "Spain",
                   flag: "🇪🇸",
                   group: "E",
                   roundOfSixteen: true,
-                  quarterFinal: false),
+                  quarterFinal: false,
+                  semiFinal: false),
             .init(country: "Canada",
                   flag: "🇨🇦",
                   group: "F",
                   roundOfSixteen: false,
-                  quarterFinal: false),
+                  quarterFinal: false,
+                  semiFinal: false),
             .init(country: "France",
                   flag: "🇫🇷",
                   group: "D",
                   roundOfSixteen: true,
-                  quarterFinal: false)
+                  quarterFinal: false,
+                  semiFinal: true)
         ]
     }
 
@@ -67,5 +71,10 @@ final class FootballTeamViewModel: ObservableObject {
     func filterQuarterRounds() {
         fetchTeams()
         teams = teams.filter { $0.quarterFinal }
+    }
+
+    func filterSemiFinalsRounds() {
+        fetchTeams()
+        teams = teams.filter { $0.semiFinal }
     }
 }
